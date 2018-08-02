@@ -34,7 +34,7 @@
                         </div>
                         <span class="text"><a href="${jjsc }/user/toRegister">点击注册</a></span>
                         <div class="main-checkbox">
-                            <input type="checkbox" value="None" id="checkbox1" name="check"/>
+                            <input type="checkbox" value="None" id="checkbox2" name="check"/>
                             <label for="checkbox1"></label>
                         </div>
                         <span class="text"><a href="${jjsc }/admin/login">切换为管理员登录</a></span>
