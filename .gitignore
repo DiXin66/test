@@ -1,1 +1,14 @@
-/target/
+
+#忽略idea构件项目的文件
+out
+.idea
+target
+*.iml
+/.settings/
+.project
+/logs/
+.classpath
+
+# 忽略数据库配置文件
+
+

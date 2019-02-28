@@ -7,34 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6793c67b-5038-4006-b625-177a0bd35a19" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/me/ConUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/me/ConUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/me/PropertyUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/me/PropertyUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/me/Strings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/me/Strings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/me/controller/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/me/controller/AdminController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/me/controller/CartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/me/controller/CartController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/me/controller/FurnController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/me/controller/FurnController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/me/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/me/controller/OrderController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/me/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/me/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/me/dao/AdminMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/me/dao/AdminMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/me/dao/CartMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/me/dao/CartMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/me/dao/FurnMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/me/dao/FurnMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/me/dao/OrderMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/me/dao/OrderMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/me/dao/OrderMapper_bf.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/me/dao/OrderMapper_bf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/me/dao/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/me/dao/UserMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/me/pojo/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/me/pojo/Admin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/me/pojo/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/me/pojo/Cart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/me/pojo/Furn.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/me/pojo/Furn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/me/pojo/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/me/pojo/Order.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/me/pojo/Order_bf.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/me/pojo/Order_bf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/me/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/me/pojo/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/me/service/AdminService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/me/service/AdminService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/me/service/CartService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/me/service/CartService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/me/service/FurnService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/me/service/FurnService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/me/service/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/me/service/OrderService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/me/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/me/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -181,7 +154,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="E:/MiniWorld/mini-phb/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -405,12 +378,12 @@
       <workItem from="1533181025241" duration="29000" />
       <workItem from="1533181228291" duration="80000" />
       <workItem from="1540190601940" duration="2060000" />
-      <workItem from="1551168719000" duration="1458000" />
+      <workItem from="1551168719000" duration="4389000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11368000" />
+    <option name="totallyTimeSpent" value="14299000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1088" y="-222" width="1096" height="1896" extended-state="6" />
@@ -433,7 +406,7 @@
       <window_info anchor="right" id="JSF" order="3" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.28856003" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28856003" />
       <window_info anchor="right" id="JRebel Setup Guide" weight="0.3291506" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" />
